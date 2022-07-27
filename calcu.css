@@ -1,0 +1,27 @@
+th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 70px; 
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.d{
+    width:50px ;
+}
+body{
+    background-color: blueviolet;
+}
+.a{
+    background-color: white;
+}
+
+#resultat{
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: smaller;
+}
